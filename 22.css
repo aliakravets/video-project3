@@ -1,0 +1,37 @@
+.menu{
+	display:flex;
+	list-style-type:none;
+}
+
+.menu li{
+	padding:20px;
+	background:orange;
+}
+
+.menu ul{
+	display:none;
+	list-style-type:none;
+}
+
+.menu li:hover .Sergiy{
+	display:block;
+	padding:20px;
+	background:Purple;
+}
+
+.menu li:hover .Mykhailo{
+	display:block;
+	padding:20px;
+	background:green;
+}
+
+.menu li:hover .Bogdan{
+	display:block;
+	padding:20px;
+	background:green;
+}
+.menu li:hover .Sofia{
+	display:block;
+	padding:20px;
+	background:red;
+}
